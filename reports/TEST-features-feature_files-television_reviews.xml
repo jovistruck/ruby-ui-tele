@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" errors="0" skipped="0" tests="6" time="41.836997" name="Review Televisions and Compare">
+<testcase classname="Review Televisions and Compare" name="I am able to filter the televisions list by sizes (outline example : | 17_22 |)" time="9.174496">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Review Televisions and Compare" name="I am able to close the informational messages (outline example : | Informational lab test |)" time="3.817490">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Review Televisions and Compare" name="I am able to close the informational messages (outline example : | Find your best buy |)" time="3.573997">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Review Televisions and Compare" name="I am able to the television list by price (outline example : | Price (low to high) |)" time="7.529063">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Review Televisions and Compare" name="I am able to the television list by price (outline example : | Price (high to low) |)" time="7.333222">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Review Televisions and Compare" name="I am able to see more Retailers by clicking the show more link" time="10.408729">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>
