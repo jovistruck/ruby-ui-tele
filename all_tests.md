@@ -4,12 +4,12 @@
 
 
 #### Pagination
-- Check that all product are displayed and the counts are correct.
-- Check that the pagination links work fine. Perform a test that the last page link works fine.
+- Check that all product counts are correct
+- Check that the pagination links work fine. Perform a test that the last page pagination link works fine
 - Check that banners, compare, sort and filter information is not lost on moving to another page using pagination controls
 
 #### Filters
-- Perform combination testing for various kinds of filters and check that they are applied correctly.
+- Perform permutational testing for various kinds of filters and check that they are applied correctly
 - Validate the Sign up link in the filters section
 - Validate the show more, show fewer links
 - Validate the Clear all filters link
@@ -26,9 +26,9 @@ Repeat for find your best buy, however checking Signup and Login links as well
 - Test the various types of sorts. Price, Screen size ... etc+
 
 #### Product Blocks
-- For every product block, check that Image, size   , launched dates and price are displayed correctly
+- For every product block; check that image, size, launch dates and price are displayed correctly
 - Check that the add to compare button on a product block works correctly
-- Hovering on a product block works fine.
+- Hovering on a product block works fine
 - Layout of product blocks
 
 #### Compare Panel
