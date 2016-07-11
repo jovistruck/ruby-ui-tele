@@ -1,5 +1,8 @@
 # README
 
+## Outline of all tests
+    all_tests.md in root folder
+
 ##Execution
 ####To Run
 

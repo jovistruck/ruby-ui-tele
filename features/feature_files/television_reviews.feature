@@ -17,7 +17,7 @@ Feature: Review Televisions and Compare
       | size_range |
       | 17_22      |
 
-  Scenario Outline: I am able to close the informational messages
+  Scenario Outline: I am able to close the displayed informational banners
 
     When I click to close the <bannerType> banner
     Then I do not see the <bannerType> banner
